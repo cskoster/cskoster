@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cskoster
-- 👀 I’m interested in Python development, SQL, Django, ETL, and Data Engineering. 
-- 🌱 I’m currently learning SQL, everything Python.
-- 💞️ I’m looking to collaborate on Data Engineering projects.
-- 📫 Reach me at https://www.linkedin.com/in/chris-koster-journeyman/
+- Hi, I’m @cskoster
+- I’m interested in Python development, SQL, Django, ETL, and Data Engineering. 
+- I’m currently learning SQL, everything Python.
+- I’m looking to collaborate on Data Engineering projects.
+- Reach me at https://www.linkedin.com/in/chris-koster-journeyman/
 
 
 <!---
